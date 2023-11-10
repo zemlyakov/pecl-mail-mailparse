@@ -1,4 +1,4 @@
-# mailparse library for PHP
+#   mailparse library for PHP
 
 Mailparse is an extension for parsing and working with email messages.
 
